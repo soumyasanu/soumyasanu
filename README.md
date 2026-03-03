@@ -1,4 +1,3 @@
-## Hi there! 👋
 
 # Hi there! 👋
 
@@ -23,7 +22,6 @@ Open to collaboration and contributions — feel free to reach out via GitHub!
 
 js,py,dart,flutter,html,git,github,java,spring,mongodb,mysql,kafka
 
-## Top Projects
 
 ## Top Projects
 
@@ -52,7 +50,7 @@ Below are some highlighted repositories from this account (top by relevance, siz
 Notes:
 - Repository descriptions are taken or inferred from available metadata. Stars/forks/issues reflect current public values.
 
-## GitHub Stats
+
 
 ## GitHub Stats 📊
 
@@ -66,7 +64,6 @@ Notes:
 
 _Badges and images above are generated via github-readme-stats._
 
-## Connect with Me
 
 ## Connect with Me 🔗
 
